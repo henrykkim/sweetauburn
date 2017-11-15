@@ -1,5 +1,5 @@
 +++
-image       = "https://c1.staticflickr.com/5/4575/38372025226_a82263294a_c.jpg"
+image       = "https://upload.wikimedia.org/wikipedia/commons/3/3b/Paris_Tuileries_Garden_Facepalm_statue.jpg"
 title       = "Mattiwilda Dobbs"
 id          = "introduction"
 weight      = -100
