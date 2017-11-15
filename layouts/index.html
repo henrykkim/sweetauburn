@@ -12,6 +12,13 @@
     </div>
     {{- range .Data.Pages.ByWeight -}}
     <section class="post">
+      <div class="featured-image">
+        {{ if isset .Params "image" }}
+        <img src="{{ .Params.image }}">
+        {{ else }}
+        <p>(No image)</p>
+        {{ end }}
+      </div>
       <h3 id="{{ .Params.id }}" class="post-title">
         <a href="{{ .Permalink }}">
           {{ .Title }}
