@@ -1,0 +1,49 @@
+<section class="footer row mtop-10 flex flex-row flex-between">
+  <div class="col xs8 s8 m8 flex-start">
+    <div class="credit">
+      © All rights reserved. Made by Pierce with <a href='https://gohugo.io/'>Hugo</a> and ♥
+    </div>
+  </div>
+  <div class="col xs4 s4 m4 right flex flex-end">
+    {{ if .Site.Params.github }}
+      <a class="social" href="{{ .Site.Params.github }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/github.svg" alt="github"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.twitter }}
+      <a class="social" href="{{ .Site.Params.twitter }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/twitter.svg" alt="twitter"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.mastodon }}
+      <a class="social" href="{{ .Site.Params.mastodon }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/mastodon.svg" alt="mastodon"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.linkedin }}
+      <a class="social" href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/linkedin.svg" alt="linkedin"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.facebook }}
+      <a class="social" href="{{ .Site.Params.facebook }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/facebook.svg" alt="facebook"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.soundcloud }}
+      <a class="social" href="{{ .Site.Params.soundcloud }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/soundcloud.svg" alt="soundcloud"></img>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.email }}
+      <!--a class="social" href="mailto:{{ .Site.Params.email }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/email.svg" alt="email"></img>
+      </a-->
+    {{ end }}
+    {{ if .Site.RSSLink }}
+      <!--a class="social" href="{{ .Site.Params.rss }}" target="_blank" rel="noopener">
+        <img class="icon" src="/img/icon/rss.svg" alt="rss"></img>
+      </a-->
+    {{ end }}
+  </div>
+</section>

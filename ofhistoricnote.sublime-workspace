@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"snd",
+				"sndtrack"
+			],
+			[
+				"tot",
+				"totalvelc"
+			],
+			[
+				"spn",
+				"spinlp"
+			],
+			[
+				"spin",
+				"spincnst"
+			],
+			[
+				"sndloo",
+				"sndlooprate"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"test",
+				"testvar4"
+			],
+			[
+				"tes",
+				"testvar3"
+			],
+			[
+				"change",
+				"changesnd"
+			],
+			[
+				"chan",
+				"changesnd"
+			],
+			[
+				"cahng",
+				"changesnd"
+			],
+			[
+				"new",
+				"newsnd"
+			],
+			[
+				"sndcr",
+				"sndcurn"
+			],
+			[
+				"sndl",
+				"sndloop"
+			],
+			[
+				"aud",
+				"audscore"
+			],
+			[
+				"drawd",
+				"drawdebug"
+			],
+			[
+				"calcaud",
+				"calcaudiencedisplay"
+			],
+			[
+				"j",
+				"jdgscore"
+			],
+			[
+				"ju",
+				"judge"
+			],
+			[
+				"start",
+				"startblinkmax"
+			],
+			[
+				"startbl",
+				"startblinkcur"
+			],
+			[
+				"max",
+				"maxtimer"
+			],
+			[
+				"min",
+				"mintimer"
+			],
+			[
+				"cur",
+				"curtimer"
+			],
+			[
+				"ab",
+				"absvelc"
+			],
+			[
+				"velc",
+				"velc"
+			],
+			[
+				"anm",
+				"animdir"
+			],
+			[
+				"jmp",
+				"jmpforc"
+			],
+			[
+				"animtck",
+				"animtck"
+			],
+			[
+				"draw",
+				"drawcharacter"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"col",
+				"col-9"
+			],
+			[
+				"ach",
+				"ahcascript"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"rot",
+				"rootScope"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"get",
+				"getIssueData"
+			],
+			[
+				"init",
+				"initStarted"
+			],
+			[
+				"tme",
+				"tempRepresentative"
+			],
+			[
+				"temp",
+				"tempRepresentative"
+			],
+			[
+				"ser",
+				"storageService"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"le",
+				"legislatorData"
+			],
+			[
+				"con",
+				"ConvertStateToAbbr"
+			],
+			[
+				"ge",
+				"geoService"
+			],
+			[
+				"re",
+				"representative"
+			],
+			[
+				"sess",
+				"sessionData"
+			],
+			[
+				"set",
+				"setUserData"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"c",
+				"cData"
+			],
+			[
+				"sea",
+				"senator2"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"men",
+				"menu"
+			],
+			[
+				"skater",
+				"skatercurtimer"
+			],
+			[
+				"sfx",
+				"sfx"
+			],
+			[
+				"jdg",
+				"jdgscore"
+			],
+			[
+				"is",
+				"iscountmet"
+			],
+			[
+				"isc",
+				"iscountmet"
+			],
+			[
+				"pre",
+				"prev_input"
+			],
+			[
+				"ve",
+				"vec2d"
+			],
+			[
+				"final",
+				"finalscore"
+			],
+			[
+				"jd",
+				"jdgmax"
+			],
+			[
+				"calc",
+				"calctotaltime"
+			],
+			[
+				"total",
+				"totaltime"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"anim",
+				"animloopcnt"
+			],
+			[
+				"stat",
+				"stateduration"
+			],
+			[
+				"motio",
+				"motionreq"
+			],
+			[
+				"rec",
+				"rectfill"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"prev",
+				"prevtempx"
+			],
+			[
+				"state",
+				"stateduration"
+			],
+			[
+				"count",
+				"countreq"
+			],
+			[
+				"co",
+				"countreq"
+			],
+			[
+				"ra",
+				"randomstate"
+			],
+			[
+				"pos",
+				"posing"
+			],
+			[
+				"jum",
+				"jumpspinning"
+			],
+			[
+				"jump",
+				"jumpspinning"
+			],
+			[
+				"rea",
+				"reasoningIndex"
+			],
+			[
+				"suggest",
+				"suggestzip"
+			],
+			[
+				"us",
+				"userData"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"nav",
+				"nav-attach"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"anims",
+				"animspeed"
+			],
+			[
+				"in",
+				"inair"
+			],
+			[
+				"jm",
+				"jmpforc"
+			],
+			[
+				"rount",
+				"routine"
+			],
+			[
+				"exc",
+				"excited"
+			],
+			[
+				"ani",
+				"animspeed"
+			],
+			[
+				"land",
+				"landcnt"
+			],
+			[
+				"totl",
+				"totalvelc"
+			],
+			[
+				"bttn",
+				"bttn"
+			],
+			[
+				"vel",
+				"velc"
+			],
+			[
+				"limiter",
+				"limitermax"
+			],
+			[
+				"limi",
+				"limiter"
+			],
+			[
+				"lif",
+				"lifespanmax"
+			],
+			[
+				"life",
+				"lifespan"
+			],
+			[
+				"par",
+				"parsys"
+			],
+			[
+				"emi",
+				"emitter"
+			],
+			[
+				"qua",
+				"quadsin"
+			],
+			[
+				"roun",
+				"routine"
+			],
+			[
+				"rect",
+				"rectfill"
+			],
+			[
+				"dr",
+				"drwframe"
+			],
+			[
+				"maxstar",
+				"maxstartvx"
+			],
+			[
+				"lis",
+				"lifespan"
+			],
+			[
+				"crodw",
+				"crowds"
+			],
+			[
+				"time",
+				"timelen"
+			],
+			[
+				"move",
+				"movelist"
+			],
+			[
+				"del",
+				"deltatime"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"ro",
+				"routine"
+			],
+			[
+				"sta",
+				"statereq"
+			],
+			[
+				"rout",
+				"routine"
+			],
+			[
+				"check",
+				"checkvelc"
+			],
+			[
+				"mov",
+				"movestatereq"
+			],
+			[
+				"testvar",
+				"testvar2"
+			],
+			[
+				"ad",
+				"advanceroutine"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pico-8",
+				"PICO-8: Run Cartridge"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pico",
+				"PICO-8: Setup PICO-8 Path"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/McBride/Git/OfHistoricNote",
+		"/Users/McBride/Git/OfHistoricNote/content",
+		"/Users/McBride/Git/OfHistoricNote/data",
+		"/Users/McBride/Git/OfHistoricNote/layouts",
+		"/Users/McBride/Git/OfHistoricNote/layouts/_default",
+		"/Users/McBride/Git/OfHistoricNote/layouts/partials",
+		"/Users/McBride/Git/OfHistoricNote/layouts/shortcodes",
+		"/Users/McBride/Git/OfHistoricNote/static",
+		"/Users/McBride/Git/OfHistoricNote/static/css"
+	],
+	"file_history":
+	[
+		"/Users/McBride/Git/OfHistoricNote/config.toml",
+		"/Users/McBride/Git/OfHistoricNote/layouts/index.html",
+		"/Users/McBride/Git/OfHistoricNote/content/coretta.md",
+		"/Users/McBride/Git/OfHistoricNote/content/evelyn.md",
+		"/Users/McBride/Git/OfHistoricNote/content/freddye.md",
+		"/Users/McBride/Git/OfHistoricNote/content/grace.md",
+		"/Users/McBride/Git/OfHistoricNote/content/mattiwilda.md",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/content/journal/pubg-structure-special.md",
+		"/Users/McBride/Git/OfHistoricNote/layouts/_default/single.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/config.toml",
+		"/Users/McBride/Git/OfHistoricNote/layouts/partials/header/meta.html",
+		"/Users/McBride/Desktop/Narrow Jumbotron Template for Bootstrap.htm",
+		"/Users/McBride/Git/OfHistoricNote/layouts/partials/header/head.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/layouts/partials/footer/foot.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/layouts/partials/header/meta.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/layouts/partials/header/head.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/layouts/partials/header/container.html",
+		"/Users/McBride/Dropbox/Dev/mastersproject.edu/static/css/style.css",
+		"/Users/McBride/Dropbox/Dev/mastersproject.edu/static/css/basic.css",
+		"/Users/McBride/Dropbox/Dev/mastersproject.edu/layouts/index.html",
+		"/Users/McBride/Dropbox/Dev/mastersproject.edu/layouts/partials/sidebar.html",
+		"/Users/McBride/Dropbox/Dev/mastersproject.edu/layouts/partials/head.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/layouts/index.html",
+		"/Users/McBride/Dropbox/Dev/piercermcbride.com/static/css/style.css",
+		"/Users/McBride/Downloads/cocoa-eh-hugo-theme-master/layouts/_default/taxonomy.html",
+		"/Users/McBride/Downloads/gohugo-theme-ananke-master/layouts/index.html",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/layouts/index.html",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/layouts/partials/post.html",
+		"/Users/McBride/Dropbox/Dev/PersonalWebsite/layouts/partials/pagination.html",
+		"/Users/McBride/Dropbox/Dev/PersonalWebsite/layouts/partials/header.html",
+		"/Users/McBride/Dropbox/Dev/PersonalWebsite/layouts/index.html",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/layouts/partials/header.html",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/layouts/partials/pagination.html",
+		"/Users/McBride/Dropbox/Dev/PersonalWebsite/config.toml",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/exampleSite/config.toml",
+		"/Users/McBride/Downloads/hugo-hello-programmer-theme-master/layouts/404.html",
+		"/Users/McBride/Downloads/hugo-academic-master/layouts/index.html",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/skate.p8",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/music.p8",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/WebTrixie.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/WebShadow.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/index.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/WebMonkeyKing.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/Web_MonkeyKing/index.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/css/main.css",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/Web_Shadow/index.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/css/materialize.css",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/css/materialize.min.css",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/css/normalize.css",
+		"/Users/McBride/Dropbox/3rd Party/materialize/css/materialize.css",
+		"/Users/McBride/Downloads/starter-template/index.html",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/js/plugins.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/services.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/controllers.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/app.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/houseMembers.json",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/sessions.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/devos.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/issues.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/index.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/profile.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/senateMembers.json",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/issueData.json",
+		"/Users/McBride/Dropbox/Dev/CallCongress/css/style.css",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/ahcascript3.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/history.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/css/materialize.css",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/content.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/manifest.json",
+		"/Users/McBride/Dropbox/Dev/CallCongress/pages/ahcascript0.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress/app/background.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress/css/newstyle.css",
+		"/Users/McBride/Dropbox/Dev/PuppetWeb/css/style.css",
+		"/Users/McBride/Downloads/html5-boilerplate_v5.3.0/css/main.css",
+		"/Users/McBride/Desktop/webgltest/index.html",
+		"/Users/McBride/Desktop/Home.htm",
+		"/Users/McBride/Downloads/html5-boilerplate_v5.3.0/css/style.css",
+		"/Users/McBride/Downloads/html5-boilerplate_v5.3.0/index.html",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/cave.p8",
+		"/Users/McBride/Desktop/My Notes/4_24_17 Testing Feedback.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/index.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcapick.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/app.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcascript0.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcascript1.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcascript2.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcascript3.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahcascript.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/controllers.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/issues.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/css/style.css",
+		"/Users/McBride/Dropbox/Dev/callcongress/pages/script.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/services.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/ahca.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/history.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/profile.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/script.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/redirect.html",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/pages/redirect",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/storageservice.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/scriptcontroller.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/app/sessionscontroller.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/css/temp.css",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/app.js",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/css/materialize.css",
+		"/Users/McBride/Dropbox/Dev/CallCongress 2/css/newstyle.css",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/refplatformer.p8",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/refparticles.p8",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/refpartwayparticles",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/refcarracer",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/bogost prototypes/mcbride_wk6.p8",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/bogost prototypes/mcbride_wk5.p8",
+		"/Users/McBride/Dropbox/Dev/Pico-8/carts/refpicowheels.p8",
+		"/Users/McBride/Dropbox/Dev/callcongress/pages/profile.html",
+		"/Users/McBride/Dropbox/Dev/callcongress/manifest.json",
+		"/Users/McBride/Dropbox/Dev/callcongress/pages/history.html",
+		"/Users/McBride/Dropbox/Dev/callcongress/css/style.css",
+		"/Users/McBride/Dropbox/Dev/callcongress/index.html",
+		"/Users/McBride/Dropbox/Dev/callcongress/css/temp.css",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/scriptcontroller.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/profilecontroller.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/historycontroller.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/geoservice.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/pages/home.html",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/homecontroller.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/settingscontroller.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/_old.js",
+		"/Users/McBride/Dropbox/Dev/callcongress/app/main.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 194.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ofhistoricnote.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

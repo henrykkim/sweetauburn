@@ -1,0 +1,62 @@
+# Hugo-Defined
+baseURL                 = "https://www.dmcore.gatech.com/" # hostname (and path) to the root
+title                   = "Of Historic Note"
+
+buildDrafts             = false   # include content marked as draft
+buildFuture             = false   # include content with publishdate in the future
+buildExpired            = false   # include content already expired
+relativeURLs            = false   # enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+canonifyURLs            = false
+pluralizelisttitles     = false   # enable this to generate plural section titles
+
+archetypeDir            = "archetypes"
+contentDir              = "content"
+layoutdir               = "layouts"
+dataDir                 = "data"
+themesDir               = "themes"
+staticDir               = "static"
+publishdir              = "public"
+defaultExtension        = "html"
+defaultLayout           = "post"
+
+disableKinds            = []
+
+paginate                = 3
+PaginatePath            = "page"
+
+#languageCode            = "en-US"
+#defaultContentLanguage  = "en"    # Missing translations will default to this content language
+enableEmoji             = true    # Enable Emoji emoticons support for page content.
+googleAnalytics         = ""      # Google Analytics Tracking ID
+metaDataFormat          = "toml"  # "yaml", "toml", "json"
+newContentEditor        = ""      # Edit new content with this editor, if provided
+rssLimit                = 15      # maximum number of items in the RSS feed
+source                  = ""      # filesystem path to read files relative from
+theme                   = ""      # theme to use (located by default in /themes/THEMENAME/)
+uglyURLs                = false   # if true, use /filename.html instead of /filename/
+disablePathToLower      = false   # Do not make the url/path to lowercase
+log                     = true    # Enable Logging
+verbose                 = false   # verbose output
+verboseLog              = true    # verbose logging
+watch                   = true    # watch filesystem for changes and recreate as needed
+
+[taxonomies]
+  #category = "categories"
+  #tag = "tags"
+
+[params]
+  dateform              = "Jan 2, 2006"
+  dateformfull          = "Jan 2 15:04:05 2006 MST"
+  faviconfile           = "/img/favicon.ico"
+  sidebarcol            = "col xs0 s0 m4"
+  mainbarcol            = "col xs12 s12 m8"
+  # Contact, Social and Files
+  prmemail              = "pierce.r.mcbride@gmail.com"
+
+[permalinks]
+  home                  = "/"
+  mattiwilda            = "/mattiwilda-dobbs/"
+  grace             		= "/grace-hamilton/"
+  coretta               = "/coretta-scott-king/"
+  evelyn                = "/evelyn-lowery/"
+  freddye               = "/freddye-henderson/"

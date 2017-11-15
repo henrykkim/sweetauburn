@@ -1,0 +1,41 @@
+<!-- JS
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/js/vendor/lightbox-plus-jquery.min.js"></script>
+{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+<script src="/js/vendor/jquery.nested.js"></script>
+<script type="text/javascript">
+  $("#projects-game").nested({
+    minWidth: 130,
+    gutter: 5
+  });
+  $("#projects-ux").nested({
+    minWidth: 130,
+    gutter: 5
+  });
+  $(function(){
+    $('.avatar img').hover(function(){
+      // on mouse enter
+      var customdata = $(this).parent().attr('gif');
+      $(this).attr('src',customdata); 
+    }, function(){
+      // on mouse leave
+      $(this).attr('src',$(this).attr('data-orig'));
+    });
+  });
+  lightbox.option({
+    'resizeDuration': 200,
+    'wrapAround': true
+  })
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105588074-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>

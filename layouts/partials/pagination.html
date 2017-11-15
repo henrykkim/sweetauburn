@@ -1,0 +1,53 @@
+<!--
+{{ if .Paginator.HasPrev }}
+<a class="col type-left" href="{{ .Paginator.Prev.URL }}">
+    < Newer Entries
+</a>
+{{ end }}
+{{ if .Paginator.HasNext }}
+<a class="col type-right" href="{{ .Paginator.Next.URL }}">
+    Older Entries >
+</a>
+{{ end }}
+-->
+{{ if gt .Paginator.TotalPages 1 }}
+<div class="{{ .Site.Params.mainbarcol }} flex">
+    {{ with .Paginator.Prev }}
+    <a class='pad-right-10x' href='{{ .URL }}'>
+        < 
+    </a>
+    {{ end }}
+
+
+    {{ $.Scratch.Set "hasPrevDots" false }}
+    {{ $.Scratch.Set "hasNextDots" false }}
+    <div class=''>
+    {{ range .Paginator.Pagers }}
+        {{ if eq . $.Paginator }}
+        <span class='current'>
+
+        {{- .PageNumber -}}
+        </span>
+        {{ else if or ( or ( eq . $.Paginator.First ) ( eq . $.Paginator.Prev ) ) ( or ( eq . $.Paginator.Next ) ( eq . $.Paginator.Last ) ) }}
+        <a class='' href='{{ .URL }}'>
+
+        {{- .PageNumber -}}
+        </a>
+        {{ else }}
+        {{ if and ( not ( $.Scratch.Get "hasPrevDots" ) ) ( lt .PageNumber $.Paginator.PageNumber )  }}
+            {{ $.Scratch.Set "hasPrevDots" true }}
+        <span class='dots'>&hellip;</span>
+        {{ else if and ( not ( $.Scratch.Get "hasNextDots" ) ) ( gt .PageNumber $.Paginator.PageNumber ) }}
+            {{ $.Scratch.Set "hasNextDots" true }}
+        <span class='dots'>&hellip;</span>
+        {{ end }}
+        {{ end }}
+    {{ end }} 
+    </div>
+    {{ with .Paginator.Next }}
+    <a class='pad-left-10x' href='{{ .URL }}'>
+         >
+    </a>
+    {{ end }}
+</div>
+{{ end }}

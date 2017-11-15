@@ -1,0 +1,6 @@
+{{ range $name, $items := .Site.Taxonomies.tags }}
+{{ $url := printf "%s/%s" "tags" ($name | lower)}}
+<a class="type-light" href="{{ $url | absURL }}">
+    {{ $name }}
+</a>
+{{ end }}

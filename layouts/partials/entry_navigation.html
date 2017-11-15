@@ -1,0 +1,19 @@
+<div class="row mar-vert-10x">
+    {{ if .PrevInSection }}
+    <div class="col middle">
+        <a class="flex" href="{{ .PrevInSection.Permalink }}">
+            <div class="middle pad-right-10x"><</div> 
+            <div class="middle type-center">{{ .PrevInSection.Title }}</div>
+        </a>
+    </div>
+    {{ end }}
+    <div class="col"></div>
+    {{ if .NextInSection }}
+    <div class="col middle type-right">
+        <a class="flex" href="{{ .NextInSection.Permalink }}">
+            <div class="middle type-center">{{ .NextInSection.Title }}</div>
+            <div class="middle pad-left-10x">></div> 
+        </a>
+    </div>
+    {{ end }}
+</div>
