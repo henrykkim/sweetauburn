@@ -1,7 +1,7 @@
 .container {
     padding: 0;
 }
-.post-title {
+.post-title a {
     font-family: 'Crimson Text', serif;
     font-size: 3rem;
     text-align: left;
@@ -9,8 +9,6 @@
     padding-bottom: 60px;
     position: absolute;
     z-index: 3;
-}
-a:link, a:visited {
     text-decoration: none;
     color: white;
 }
