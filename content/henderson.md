@@ -1,4 +1,6 @@
 +++
+color       = "color-henderson"
+image       = "img/freddye.png"
 title       = "Freddye Henderson"
 id          = "introduction"
 weight      = -100

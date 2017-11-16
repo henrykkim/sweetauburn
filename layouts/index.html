@@ -5,26 +5,38 @@
       <h1 class="text-muted">Of Historic Note</h1>
     </div>
 
-    <div class="jumbotron">
+    <div>
       <p class="lead">
         {{ .Content }}
       </p>
     </div>
     {{- range .Data.Pages.ByWeight -}}
-    <section class="post">
-      <div class="featured-image">
-        {{ if isset .Params "image" }}
-        <img src="{{ .Params.image }}">
-        {{ else }}
-        <p>(No image)</p>
-        {{ end }}
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <section class="post {{ .Params.color }}">
+
+            <div class="col-6">
+              <h3 id="{{ .Params.id }}" class="post-title">
+                  <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                  </a>
+              </h3>
+            </div>
+            
+            <div class="featured-image">
+              {{ if isset .Params "image" }}
+              <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" class="img-fluid">
+              </a>
+              {{ else }}
+              <p>(No image)</p>
+              {{ end }}
+            </div>
+          </section>
+        </div>
       </div>
-      <h3 id="{{ .Params.id }}" class="post-title">
-        <a href="{{ .Permalink }}">
-          {{ .Title }}
-        </a>
-      </h3>
-    </section>
+    </div>
     {{- end -}}
     <footer class="footer">
       <p>&copy; Company 2017</p>

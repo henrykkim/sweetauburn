@@ -1,5 +1,6 @@
 +++
-image       = "https://upload.wikimedia.org/wikipedia/commons/3/3b/Paris_Tuileries_Garden_Facepalm_statue.jpg"
+color       = "color-king"
+image       = "img/dobbs.png"
 title       = "Mattiwilda Dobbs"
 id          = "introduction"
 weight      = -100

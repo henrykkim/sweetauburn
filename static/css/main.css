@@ -1,0 +1,46 @@
+.container {
+    padding: 0;
+}
+.post-title {
+    font-family: 'Crimson Text', serif;
+    font-size: 3rem;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    position: absolute;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.featured-image {
+    margin-top: 15%;
+    width: 100%;
+    margin-left: 15%;
+}
+
+.post {
+    background-color: pink;
+    
+}
+
+.color-king {
+    background-color: #906972; 
+}
+
+.color-dobbs {
+    background-color: #CEA9B0; 
+}
+
+.color-hamilton {
+    background-color: #CF826E; 
+}
+
+.color-henderson {
+    background-color: #B9DCE0; 
+}
+
+.color-lowery {
+    background-color: #886085; 
+}

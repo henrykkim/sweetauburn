@@ -1,4 +1,6 @@
 +++
+color       = "color-king"
+image       = "img/coretta.png"
 title       = "Coretta Scott King"
 id          = "introduction"
 weight      = -100

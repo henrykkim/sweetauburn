@@ -1,4 +1,6 @@
 +++
+color       = "color-hamilton"
+image       = "img/grace.png"
 title       = "Grace Hamilton"
 id          = "introduction"
 weight      = -100

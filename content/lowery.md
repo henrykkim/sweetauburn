@@ -1,4 +1,6 @@
 +++
+color       = "color-lowery"
+image       = "img/lowery.png"
 title       = "Evelyn Lowery"
 id          = "introduction"
 weight      = -100
