@@ -1,7 +1,7 @@
 .container {
     padding: 0;
 }
-.post-title a {
+.post-title a, .post-title a:visited {
     font-family: 'Crimson Text', serif;
     font-size: 3rem;
     text-align: left;
@@ -40,7 +40,7 @@
     -ms-transform: rotate(40deg);
     -webkit-transform: rotate(40deg);
     transform: rotate(40deg);
-    opacity: 0.5;
+    opacity: 0.3;
     
 }
 .color-king {
