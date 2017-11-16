@@ -8,6 +8,7 @@
     padding-top: 20px;
     padding-bottom: 60px;
     position: absolute;
+    z-index: 3;
 }
 a:link, a:visited {
     text-decoration: none;
@@ -19,16 +20,29 @@ a:link, a:visited {
     margin-top: 15%;
     width: 100%;
     margin-left: 15%;
+    position: absolute;
+    z-index: 3;
 }
 
 .post {
     background-color: pink;
     height: 400px;
+    position: relative;
     overflow: hidden;
 }
 
 .newspaper {
     position: absolute;
+    z-index: -1;
+    margin-left: -40%;
+    height: auto; 
+    width: auto; 
+    max-width: 1000px; 
+    max-height: 1000px;
+    -ms-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+    opacity: 0.5;
     
 }
 .color-king {
