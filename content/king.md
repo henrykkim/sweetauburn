@@ -1,5 +1,6 @@
 +++
 color       = "color-king"
+clip        = "img/coretta-clip.png"
 image       = "img/coretta.png"
 title       = "Coretta Scott King"
 id          = "introduction"

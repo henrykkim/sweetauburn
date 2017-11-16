@@ -1,5 +1,6 @@
 +++
 color       = "color-lowery"
+clip        = "img/evelyn-clip.png"
 image       = "img/lowery.png"
 title       = "Evelyn Lowery"
 id          = "introduction"

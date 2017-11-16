@@ -1,5 +1,6 @@
 +++
 color       = "color-hamilton"
+clip        = "img/grace-clip.png"
 image       = "img/grace.png"
 title       = "Grace Hamilton"
 id          = "introduction"

@@ -1,5 +1,6 @@
 +++
-color       = "color-king"
+color       = "color-dobbs"
+clip        = "img/dobbs-clip.png"
 image       = "img/dobbs.png"
 title       = "Mattiwilda Dobbs"
 id          = "introduction"

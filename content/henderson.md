@@ -1,5 +1,6 @@
 +++
 color       = "color-henderson"
+clip        = "img/freddye-clip.png"
 image       = "img/freddye.png"
 title       = "Freddye Henderson"
 id          = "introduction"
