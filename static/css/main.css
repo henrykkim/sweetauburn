@@ -1,6 +1,28 @@
 .container {
     padding: 0;
 }
+
+.home-button, .home-button:hover {
+    position: absolute;
+    z-index: 4;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: 'Libre Franklin', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.detail-title a, .detail-title a:visited {
+    font-family: 'Crimson Text', serif;
+    font-size: 3rem;
+    text-align: left;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    position: absolute;
+    z-index: 3;
+    text-decoration: none;
+    color: white;
+}
 .post-title a, .post-title a:visited {
     font-family: 'Crimson Text', serif;
     font-size: 3rem;
@@ -13,8 +35,18 @@
     color: white;
 }
 
+.content-detail {
+    margin: 10px;
+}
+
+.featured-detail-image {
+    margin-top: 20%;
+    width: 100%;
+    margin-left: 15%;
+    position: absolute;
+    z-index: 3;
+}
 .featured-image {
-    /*position: absolute;*/
     margin-top: 15%;
     width: 100%;
     margin-left: 15%;
@@ -22,9 +54,16 @@
     z-index: 3;
 }
 
-.post {
+.main-post {
     background-color: pink;
     height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+.detail-post {
+    background-color: pink;
+    height: 500px;
     position: relative;
     overflow: hidden;
 }
