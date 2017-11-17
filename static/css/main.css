@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Libre+Franklin');
 
 /* Generic */
+
+.row {
+  margin: 0;
+}
+.col-12 {
+  padding: 0;
+}
 .container {
     padding: 0;
+
 }
 .container-fluid {
   width: 100%;
