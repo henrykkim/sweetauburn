@@ -1,39 +1,44 @@
 {{ partial "meta.html" . }}
 <body>
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-					<a href="{{ .Site.Permalinks.home }}" class="home-button">
-							Home
+	<section class="container-fluid detail-header {{ .Params.color }}">
+		<div class="row justify-content-start">
+			<a class="col home-button" href="{{ .Site.Permalinks.home }}" >
+				{{ .Site.Title }}
+			</a>
+		</div>
+		<div class="row justify-content-between">
+			<div class="col">
+				<h3 id="{{ .Params.id }}" class="detail-title">
+					<a href="{{ .Permalink }}">
+						{{ .Title }}
 					</a>
-				<section class="detail-post {{ .Params.color }}">
-					<div class="col-6">
-						<h3 id="{{ .Params.id }}" class="detail-title">
-								<a href="{{ .Permalink }}">
-									{{ .Title }}
-								</a>
-						</h3>
+					<div class="detail-subtitle">
+						{{ .Params.subtitle }}
 					</div>
-					
-					<div class="featured-detail-image">
-						{{ if isset .Params "image" }}
-						<a href="{{ .Permalink }}">
-							<img src="{{ .Params.clip }}" class="img-fluid newspaper">
-							<img src="{{ .Params.image }}" class="img-fluid">
-						</a>
-						{{ else }}
-						<p>(No image)</p>
-						{{ end }}
-					</div>
-				</section>
-				<div class="content-detail">
-						<h1>{{ .Title }}</h1>
-						<span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-						{{ .Content }}
-					</div>
+				</h3>
+			</div>
+			<div clas="col detail-images">
+				{{ if isset .Params "image" }}
+				<a href="{{ .Permalink }}">
+					<img src="{{ .Params.clip }}" class="img-fluid newspaper">
+					<img src="{{ .Params.image }}" class="img-fluid detail-portrait">
+				</a>
+				{{ else }}
+				<p>
+					(No image)
+				</p>
+				{{ end }}
 			</div>
 		</div>
-	</div>
-	
+	</section>
+	<section class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="detail-content">
+						{{ .Content }}
+				</div>
+			</div>
+		</div>
+	</section>
 </body>
 </html>

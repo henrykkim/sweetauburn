@@ -1,128 +1,58 @@
 +++
 color       = "color-henderson"
 clip        = "/img/freddye-clip.png"
-image       = "/img/freddye.png"
+image       = "/img/Portrait_Freddye_Web.png"
 title       = "Freddye Henderson"
+subtitle    = "wants to get you flying"
 id          = "introduction"
 weight      = -100
 +++
 
-Freddye Henderson stufffffffffff
+“When we got started, travel for black people wasn’t always an easy thing”
 
-Shortcode image
-{{< img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paris_Tuileries_Garden_Facepalm_statue.jpg" title="example title" >}}
+This is how Freddye Henderson, founder of Henderson Travel Service, describes starting the first black travel agency in Atlanta. This was no easy feat in 1955, the same year Rosa Parks refused to give up her bus seat in Alabama. However, she persisted and her company maintained a record of success up throughout her life.
 
-shortcode pullquote
-{{< pullquote text="Hi there!">}}
+{{< img-floatright src="/img/freddye_agency.jpg" title="Freddye outside her agency" >}}
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+#### Early Challenges
 
-Alternatively, for H1 and H2, an underline-ish style:
+Early on in Henderson Travel Service’s history Freddye had to go to surprising lengths to get the company off the ground. To Freddye, the first was a problem of hearts and minds. In her words, “Black people don’t want any trouble when they travel. They don’t want to get kicked around when they can stay at home and get kicked around without having to pay anything” (Quote from Record of Success)
 
-Alt-H1
-======
+For her, the revelation that travel outside of the US could both be a business and an opportunity for her community to travel came in the form of a trip of her own. She had worked in the fashion industry before starting Henderson Travel Service, and in a 1954 trip to Europe she got a behind-the-scenes tour of the work of top designers, like Christian Dior. However,to her the revelation wasn’t the fashion but instead the treatment she received, which she described on multiple occasions as [“treated like royalty”](https://www.google.com "Pioneer").
 
-Alt-H2
+To  get others to experience what she had though, she needed a way to build up to international travel, and to earn the trust of her clients. In her words [“We really had to work to sell people on the idea of travel abroad, because of the restrictions on travel here."](https://www.google.com "Record of Success")  Given that African-Americans at the time couldn’t get a hotel room, use most public restrooms or eat at many restaurants, the idea of international travel is understandably scary. 
+
+Some of her early work involved things like conventions,where she was able to book large groups at a time. [One tactic she describes](https://www.google.com "Pioneer") was is booking large, usually professional, groups in the largest hotel in a non-southern city (Utah, for example) and prepaying for all her clients ahead of time. Then she’d arrive with her clients in one large bus and just walk in. The size and the knowledge that there were rooms, already paid for, waiting for them proved to be a clever way to avoiding discrimination.
+
 ------
 
+#### Oslo
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Once Freddye had gained a reputation as someone who could handle the challenges need to help African-Americans travel, she started working with other civil rights leaders. Most notably, she managed the travel of Martin Luther King Jr. to Oslo, Norway, to accept the Nobel Peace Prize. Some of the original documents, and Martin Luther King’s Speech, are below.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+{{< youtube az8VvmcgNpE >}}
 
-Combined emphasis with **asterisks and _underscores_**.
+http://www.thekingcenter.org/archive/document/flight-schedule-proposal-mlk-and-party
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+<http://www.thekingcenter.org/archive/document/letter-freddye-henderson-henderson-travel-dora-mcdonald>
 
+<http://www.thekingcenter.org/archive/document/tour-itinerary-stockholm-sweden-connection-1964-nobel-peace-prize-awards>
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+------
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+#### Africa
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+While she was pioneering African American travel in the US and abroad, Freddye quacking noticed and interesting gap in the market; West Africa was virtually ignored by tourists. There was a confluence of reasons associated with this, including white tourists disinterest in travel to Africa,lack of hotels and lack of airports, but to Freddye this was an opportunity nota problem. 
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+After she took her first group to Senegal, Nigeria, Kenya and Morocco by [chartering a plane from Paris](https://www.google.com "Pioneer"), she worked to open the market to more of her clients. Pan Am began flying to west Africa in 1969, but the biggest breakthrough had nothing to do with Freddye. It was a TV show.
 
-[I'm an inline-style link](https://www.google.com)
+{{< youtube wxYKGcW6TzA >}}
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Roots, a miniseries about the enslavement of a man from Africa who’s brought to the US during the height of American slavery, aired in 1977 to record ratings. [Even today, it’s one of the highest rated television programs every aired.](http://www.vulture.com/2016/05/roots-miniseries-ratings-were-off-the-charts.html "Vulture") At the time, it a phenomenon. This was in no small part due to it being an adaptation of a book where the author, Alex Haley, attempted to trace his own family history. The author’s focus on genealogy struck a cord and  [sparked a national interest.](http://www.vulture.com/2016/05/roots-miniseries-ratings-were-off-the-charts.html "Vulture") This is where Freddye could help.
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Henderson Travel Agency began offering “Roots” trips for African-Americans after the show aired. They
+would take clients through Senegal, once part of the empire of Mali and a major port for the slave trade.   [They would tour the island of Goree](https://www.google.com "Record of Success") to see dungeons built and used by the French to house slaves before being shipped overseas. They would even [travel to the Gambian village of Juffare,](https://www.google.com "Pioneer") made famous by Roots as the home of the main character, Kunta Kinate. Although she admits that  [“most blacks are not able to trace their family’s origins like Alex Haley”](https://www.google.com "Record of Success") she still sees the trips as valuable education. As she puts it, [“They can see the areas where a lot of slaves were shipped.”](https://www.google.com "Record of Success")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+------
 
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
-
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
+Freddye Henderson’s trailblazing in the travel agency opened the door for African Americans not just to travel but to experience that was otherwise inaccessible. Segregation at home an imputes to start the service for Freddye, but the experience of travel was what sustained her. In an article about her dream vacation, Freddye says she’s been the Africa “scores” of times but would say that Swaziland, one of the last remaining absolute monarchies in the world, a still would be her favorite of them.  [She talks a lot about its natural charms](https://www.google.com "Dream Vacations"), such the Ezulwini Valley, the great Usutu River, the Lubombo Mountains and its hot mineral springs, in other interviews she cites just the value of seeing Africa ran by Africans. Talking about the value of travel for African Americans, she says [“They also go for the good feeling of seeing blacks running their own governments, countries and destinies”](https://www.google.com "Avant Gard").
